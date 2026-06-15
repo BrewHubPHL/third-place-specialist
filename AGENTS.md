@@ -30,14 +30,15 @@ third-place-specialist/
 |----------|----------|-------|
 | 1 — CRITICAL | Diagnostic audit | `patterns/oldenburg-eight-test.md` |
 | 2 — CRITICAL | Planning critique | `patterns/planning-community-traps.md` |
-| 3 — HIGH | Inclusion | `patterns/feminist-third-place-audit.md` |
-| 4 — HIGH | Age-friendly | `patterns/ageing-social-health.md` |
-| 5 — MEDIUM | Evidence-based design | `patterns/evidence-based-design.md` |
-| 6 — MEDIUM | Safety / CPTED | `patterns/eyes-on-street-safety.md` |
-| 7 — MEDIUM | Gardens | `patterns/community-garden-design.md` |
-| 8 — MEDIUM | Transit | `patterns/transit-third-place.md` |
-| 9 — MEDIUM | Digital layers | `patterns/digital-layers.md` |
-| 10 — MEDIUM | Street activation | `patterns/street-life-activation.md` |
+| 3 — HIGH | Programming = demographic filter | `patterns/programming-format-audit.md` |
+| 4 — HIGH | Inclusion | `patterns/feminist-third-place-audit.md` |
+| 5 — HIGH | Age-friendly | `patterns/ageing-social-health.md` |
+| 6 — MEDIUM | Evidence-based design | `patterns/evidence-based-design.md` |
+| 7 — MEDIUM | Safety / CPTED | `patterns/eyes-on-street-safety.md` |
+| 8 — MEDIUM | Gardens | `patterns/community-garden-design.md` |
+| 9 — MEDIUM | Transit | `patterns/transit-third-place.md` |
+| 10 — MEDIUM | Digital layers | `patterns/digital-layers.md` |
+| 11 — MEDIUM | Street activation | `patterns/street-life-activation.md` |
 
 ## When to apply
 

@@ -45,6 +45,7 @@ Third places are informal public gathering settings—neither home (first) nor w
 | Quick routing / priorities | This file → [AGENTS.md](AGENTS.md) |
 | Five core principles | [PRINCIPLES.md](PRINCIPLES.md) |
 | Oldenburg 8-test audit | `patterns/oldenburg-eight-test.md` |
+| Programming format = who shows up (bridging vs bonding) | `patterns/programming-format-audit.md` |
 | Master plan / New Urbanism critique | `patterns/planning-community-traps.md` |
 | Feminist inclusion audit | `patterns/feminist-third-place-audit.md` |
 | Age-friendly / weak ties | `patterns/ageing-social-health.md` |
@@ -98,6 +99,7 @@ Use as the **shared diagnostic** across every chapter:
 | Goal | Prefer | Pattern / chapter |
 |------|--------|-------------------|
 | Integrate newcomers | Open garden, café regulars, transit hub | Ch 8, `community-garden-design.md` |
+| Bridge across difference (gentrifying area) | Culturally-owned formats (dominoes, spoken-word, gospel) | `programming-format-audit.md` |
 | Ageing in place | Walkable club/library within 10 min | Ch 3, `ageing-social-health.md` |
 | Child social health | Free playful public realm | Ch 4 |
 | Safety perception | Mixed use + active frontages + programming | Ch 6 — not third-place count alone |
@@ -112,6 +114,7 @@ Use as the **shared diagnostic** across every chapter:
 | Symptom | Likely cause | Fix |
 |---------|--------------|-----|
 | "Town centre" feels empty | Form without conversation primacy | `planning-community-traps.md` |
+| Programming only draws newcomers | Generic hobby format is a demographic filter | `programming-format-audit.md` |
 | Garden doesn't integrate neighbours | Locked club model | `community-garden-design.md` |
 | Seniors isolated after driving stops | Car-dependent MPC amenity only | `ageing-social-health.md` |
 | Retail strip still feels unsafe | CPTED visibility without programming | `eyes-on-street-safety.md` |
@@ -147,6 +150,7 @@ Start at [rtp-index.md](references/book-summaries/rtp-index.md). Load **one** ch
 ## Topic Index
 
 - **Oldenburg eight characteristics** → Ch 1, 8; `oldenburg-eight-test.md`
+- **Programming format / bridging vs bonding filter** → `programming-format-audit.md`
 - **Garden City / New Urbanism** → Ch 1; `planning-community-traps.md`
 - **Feminist geography / emplacement** → Ch 2; `feminist-third-place-audit.md`
 - **Weak ties / ageing** → Ch 3; `ageing-social-health.md`
