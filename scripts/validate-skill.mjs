@@ -17,6 +17,7 @@ const REQUIRED_FILES = [
   'PRINCIPLES.md',
   'anti-patterns.md',
   'patterns/oldenburg-eight-test.md',
+  'patterns/programming-format-audit.md',
   'patterns/planning-community-traps.md',
   'patterns/feminist-third-place-audit.md',
   'patterns/ageing-social-health.md',
