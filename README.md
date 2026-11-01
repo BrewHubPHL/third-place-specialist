@@ -3,7 +3,7 @@
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-compatible-5c4ee5)](https://agentskills.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Ray Oldenburg third-place frameworks and urban community planning patterns for AI agents — Oldenburg audits, social capital, age-friendly design, community gardens, transit placemaking, and feminist critiques. Part of the [BrewHub PHL](https://github.com/brewhubphl) specialist skill fleet.
+Ray Oldenburg third-place frameworks and urban community planning patterns for AI agents — Oldenburg audits, social capital, age-friendly design, community gardens, transit placemaking, and feminist critiques.
 
 ## Install
 
@@ -13,11 +13,7 @@ Ray Oldenburg third-place frameworks and urban community planning patterns for A
 npx skills add brewhubphl/third-place-specialist
 ```
 
-Install to a single project:
-
-```bash
-npx skills add brewhubphl/third-place-specialist --path .agents/skills
-```
+This installs into the current project (the default scope). Add `-g` to install globally for your user, or `-a <agent>` (e.g. `-a claude-code`) to target a specific agent. Run `npx skills add --help` for the full option list.
 
 ### Manual
 
@@ -29,7 +25,7 @@ cp -R third-place-specialist ~/.cursor/skills/third-place-specialist
 
 ## Usage
 
-Invoke explicitly so the agent loads the skill on demand:
+The agent loads the skill automatically when a task matches its description. You can also invoke it explicitly:
 
 ```
 Use the third-place-specialist skill to audit this master plan's "community hub" claims.
@@ -57,7 +53,7 @@ The agent should read `SKILL.md` first, then pull only the relevant `patterns/*.
 
 ## Source book
 
-This repo includes [11 chapter summaries](references/book-summaries/rtp-index.md) from [*Rethinking Third Places: Informal Public Spaces and Community Building*](https://www.e-elgar.com/shop/gbp/rethinking-third-places-9781786433916.html) edited by Joanne Dolley and Caryl Bosman (Edward Elgar, ~240 pp., ISBN 9781786433916). Ray Oldenburg's *The Great Good Place* (1989) remains the foundational source.
+This repo includes [11 chapter summaries](references/book-summaries/rtp-index.md) from [*Rethinking Third Places: Informal Public Spaces and Community Building*](https://www.e-elgar.com/shop/gbp/rethinking-third-places-9781786433909.html) edited by Joanne Dolley and Caryl Bosman (Edward Elgar, 2019, ~240 pp., ISBN 9781786433909 hardback / 9781786433916 e-book). Ray Oldenburg's *The Great Good Place* (1989) remains the foundational source.
 
 To extend:
 
@@ -71,14 +67,6 @@ Keep `SKILL.md` lean; book content stays modular.
 ## Local PDF
 
 `Rethinking_Third_Places.pdf` at repo root is gitignored — keep your own copy for deep reading. Agents use the modular chapter summaries.
-
-## Related specialists
-
-| Repo | Domain |
-|------|--------|
-| [supabase-specialist](https://github.com/brewhubphl/supabase-specialist) | Postgres, RLS, data layer for civic apps |
-| [nextjs-specialist](https://github.com/brewhubphl/nextjs-specialist) | App Router, public engagement UIs |
-| [cloudflare-specialist](https://github.com/brewhubphl/cloudflare-specialist) | Edge, Workers, smart-city layers |
 
 ## Development
 

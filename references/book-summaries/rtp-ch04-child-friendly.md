@@ -20,6 +20,7 @@ Use this chapter when evaluating public realm projects, play space briefs, or li
 - **Oldenburg third-place alignment**: Levellers, neutral ground, playful mood, access and accommodation, conversation/social exchange—inclusiveness tested by child attraction and engagement.
 - **CABE By Design urban design principles (2000)**: Character; continuity and enclosure; quality of public realm; ease of movement (people before traffic); legibility; adaptability; diversity.
 - **Play England Design For Play (2008)**: Movement/physical activity; sensory stimulation; social interaction choice; manipulable materials; challenge within safe limits; golden rule—"a place in its own right, specially designed for its location" with maximum play value.
+- *Note:* the CABE (2000) and Play England (2008) documents are historical guidance — CABE merged into the Design Council in 2011. Check for newer Design Council or Play England guidance before using them as current checklists.
 - **Talen & Coffindaffer**: Children experience environments through texture, variety, diversity, accessibility, shared places—not adult functional homogeneity; gender differences in use; civic-minded activity not only play.
 - **McAllister's planner priorities**: Safety, greenspace, access, integration—for healthy child-friendly cities.
 - **Collective Impact / ARACY The Nest**: Cross-sector alignment; prevention-focused investment in child-friendly third places as cliff-top intervention vs. tertiary care alone.

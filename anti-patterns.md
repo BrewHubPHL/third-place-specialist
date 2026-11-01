@@ -133,9 +133,9 @@ Adult-oriented coffee-after-2am scores miss child texture-and-variety needs for 
 
 ### ❌ Letting newcomer complaints silence culturally-rooted programming
 
-#DontMuteDC (2019): a 20-year Go-Go music tradition at a Shaw storefront was nearly shut down by a single new neighbour's noise complaint.
+#DontMuteDC (2019): a ~25-year Go-Go music tradition outside a Shaw phone store was briefly silenced after one new resident's complaint, relayed through the store's corporate parent; it was restored after mass protest.
 
-**Why:** Enforcement and "code" exclude more easily than physical design — a 311 call can erase programming a building's form would have kept (Principle 4).  
+**Why:** Enforcement and "code" exclude more easily than physical design — a single complaint can erase programming a building's form would have kept (Principle 4).  
 **Fix:** Protect the programming up front — soundproofing, relationships with adjacent residents, get ahead of noise/311 complaints → [patterns/programming-format-audit.md](patterns/programming-format-audit.md)
 
 ### ❌ Performing a community's culture *for* it instead of hosting *with* it
@@ -147,7 +147,7 @@ Borrowed cultural forms — cookout aesthetics, dominoes, jazz "heritage" — st
 
 ### ❌ Claiming the "leveller" while pricing or payment exclude
 
-Cashless-only policies and premium pricing are documented exclusion mechanisms (NAACP on cashless retail; FDIC: ~14% of Black adults are unbanked vs. ~4% of white adults).
+Cashless-only policies and premium pricing are documented exclusion mechanisms (NAACP on cashless retail; FDIC 2023 survey: 10.6% of Black households were unbanked vs. 1.9% of White households, 4.2% nationally; check fdic.gov/household-survey for newer editions).
 
 **Why:** The leveller and "low profile" characteristics require genuine access, not just an unlocked door (Principle 4; 8-test #2).  
 **Fix:** Accept cash; keep an accessible price tier → [patterns/programming-format-audit.md](patterns/programming-format-audit.md)
