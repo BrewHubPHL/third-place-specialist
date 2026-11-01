@@ -3,7 +3,8 @@
 **Editors:** Joanne Dolley & Caryl Bosman  
 **Publisher:** Edward Elgar Publishing  
 **Pages:** ~240  
-**ISBN:** 9781786433916  
+**Published:** 2019  
+**ISBN:** 9781786433909 (hardback); 9781786433916 (e-book)  
 **Foreword:** Ray Oldenburg  
 
 The full PDF is gitignored at repo root (`Rethinking_Third_Places.pdf`) — keep a local copy for deep reading; agents use these chapter summaries.

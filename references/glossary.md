@@ -8,7 +8,7 @@
 
 **Characters / place champions** — Regular patrons who anchor third-place social life (Oldenburg; Ch 1, 8)
 
-**Child-friendly city** — UNICEF/CABE/Play England framework for rights, participation, and playable public realm (Ch 4)
+**Child-friendly city** — UNICEF/CABE/Play England framework for rights, participation, and playable public realm (Ch 4). The CABE and Play England documents are historical guidance; CABE merged into the Design Council in 2011.
 
 **Club vs third place spectrum** — Locked, fee-based, obligation-heavy gardens vs open walkable porous sites (Ch 8)
 

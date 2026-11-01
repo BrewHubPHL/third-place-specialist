@@ -43,7 +43,7 @@ Popular music heritage is not only archives and canon—it is a set of **practic
 
 - **Museum-only heritage** — removing music from messy, noisy original contexts (Leonard); walking tours partly remedy this.
 - **Oldenburg purity tests** — rejecting online or ticketed experiences because they fail neighbourhood walkability or low-cost access.
-- **Platform sustainability neglect** — Facebook group content at greater loss risk than Yahoo archives (Baker & Collins 2016).
+- **Platform sustainability neglect** — Facebook group content at greater loss risk than Yahoo archives (Baker & Collins 2016). *Since publication, Yahoo Groups removed hosted content (2019–20) and shut down in Dec 2020 — the platform-loss risk applies to every hosted platform, Yahoo included.*
 - **Daytime walk tourism** — Melbourne Music Walk by day reduces venues to façades; misses third-place entry.
 - **Forced cultural planting** — Albertslund-style expectation that immigrants grow heritage crops when free seedlings homogenize choices (cross-chapter echo).
 - **Treating heritage venues as silent galleries** — Slater & Koo found Tate/South Bank lack conversation; incomplete third places.

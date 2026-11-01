@@ -1,29 +1,10 @@
 ---
 name: third-place-specialist
-description: Ray Oldenburg third-place frameworks, urban planning for community, social capital, age-friendly and child-friendly public space, community gardens, transit placemaking, and Dolley & Bosman edited volume concepts.
-version: "1.0.0"
-tags:
-  - third-places
-  - oldenburg
-  - urban-planning
-  - social-capital
-  - community-gardens
-  - transit
-  - public-space
-when_to_use:
-  - Auditing whether a space qualifies as a third place (Oldenburg 8-test)
-  - Reviewing master plans, MPCs, or "community hub" development claims
-  - Age-friendly, child-friendly, or feminist inclusive public realm design
-  - Community garden, transit station, or main-street activation briefs
-  - CPTED / eyes-on-the-street safety claims tied to third-place clustering
-  - Digital layers, AR, or heritage projects extending physical gathering
-invocation_examples:
-  - "Run the Oldenburg 8-test on this proposed community plaza"
-  - "Does this locked community garden build bridging or only bonding capital?"
-  - "Audit this New Urbanist town centre for planning-community traps"
-  - "Review this transit station redesign for third-place-of-mobility qualities"
-  - "Check this main street grant for Zone 1 pavement dining priorities"
-disable-model-invocation: true
+description: Ray Oldenburg third-place frameworks, urban planning for community, social capital, age-friendly and child-friendly public space, community gardens, transit placemaking, and Dolley & Bosman edited volume concepts. Use when auditing whether a space qualifies as a third place (Oldenburg 8-test), reviewing master plans, MPCs or "community hub" development claims, designing age-friendly, child-friendly or feminist inclusive public realm, briefing community gardens, transit stations or main-street activation, testing CPTED / eyes-on-the-street safety claims, or extending gathering through digital, AR or heritage layers.
+metadata:
+  version: "1.0.0"
+  tags: "third-places, oldenburg, urban-planning, social-capital, community-gardens, transit, public-space"
+  invocation_examples: "Run the Oldenburg 8-test on this proposed community plaza | Does this locked community garden build bridging or only bonding capital? | Audit this New Urbanist town centre for planning-community traps | Review this transit station redesign for third-place-of-mobility qualities | Check this main street grant for Zone 1 pavement dining priorities"
 ---
 
 # Third-Place Specialist
@@ -143,7 +124,7 @@ Start at [rtp-index.md](references/book-summaries/rtp-index.md). Load **one** ch
 | 10 | Third places in transit | `rtp-ch10-transit-third-places.md` |
 | 11 | Street life contribution | `rtp-ch11-street-life.md` |
 
-**Book metadata:** Dolley & Bosman (eds.), Edward Elgar, ~240 pp., ISBN 9781786433916. PDF gitignored at repo root.
+**Book metadata:** Dolley & Bosman (eds.), Edward Elgar, 2019, ~240 pp., ISBN 9781786433909 (hardback) / 9781786433916 (e-book). PDF gitignored at repo root.
 
 ---
 

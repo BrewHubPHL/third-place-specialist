@@ -42,12 +42,12 @@ added: 2026-06-15
 
 | Book / resource | Index file |
 |-----------------|------------|
-| *Rethinking Third Places* (Dolley & Bosman, eds., Edward Elgar, 2018) | [rtp-index.md](rtp-index.md) — PDF gitignored at repo root; ISBN 9781786433916 |
+| *Rethinking Third Places* (Dolley & Bosman, eds., Edward Elgar, 2019) | [rtp-index.md](rtp-index.md) — PDF gitignored at repo root; ISBN 9781786433909 (hardback), 9781786433916 (e-book) |
 
 ## Promotion workflow
 
 ```
-book summary → patterns/ (if durable) → anti-patterns/ (if mistake) → SKILL.md (one-line pointer only)
+book summary → patterns/ (if durable) → anti-patterns.md (if mistake) → SKILL.md (one-line pointer only)
 ```
 
 Run `node scripts/validate-skill.mjs` after adding files.

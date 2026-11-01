@@ -27,15 +27,15 @@ Choosing or auditing the **recurring programming** — games, performances, club
 | Spoken-word / open-mic | Black + Puerto Rican founding tradition | Bridging-to-incumbent | **High** — Nuyorican lineage; Somers-Willett, *Cultural Politics of Slam Poetry* (Michigan 2009); DC Busboys-vs-SpitDat dissertation | Black/Latino host + artists from day one |
 | Gospel / R&B / hip-hop DJ | Black community | Bridging-to-incumbent | **High** — genre does the work | — |
 | Chess | **Splits:** clubs=white/male; **street/park=predominantly Black men**; Pilsen Latino model | Either, by form | **Medium** — Washington Square street-chess ethnography; USCF data | Run casual/park-style (no clock/rating); promote at rec centers or it defaults to gentrifiers |
-| Jazz | Black origin, ~80% white aging *paying* audience | Bonding-newcomer by default | **High** — NEA Report #31; Jazz Audiences Initiative (WolfBrown) | Only reaches incumbents if framed as heritage, Black artists centered |
+| Jazz | Black origin, largely white, aging *paying* audience | Bonding-newcomer by default | **High** — NEA Research Report #31 (DeVeaux, *Jazz in America: Who's Listening?*, 1995, on 1992 survey data — dated; check the latest NEA Survey of Public Participation in the Arts); Jazz Audiences Initiative (WolfBrown) | Only reaches incumbents if framed as heritage, Black artists centered |
 | Family storytime / intergenerational | Bridges *if* content reflects community | Bridging | **High** — ALA/library-science literature | Diverse/bilingual content; partner the library |
 | Craft / knitting | Female; broader racial mix but cafe version skews gentrifier | Mild bonding-newcomer | **Medium** — Craft Yarn Council surveys | — |
 | Trivia | Young, college-educated, newcomer-coded | Bonding-newcomer | **Medium — race skew is practitioner LORE, not studied** | Tunable via question content |
 | Book club | College-educated women, skews white | Bonding-newcomer | **High** — Pew/NEA; Elizabeth Long, *Book Clubs* | Black-authored/-facilitated reframes it |
-| Board game night | White/male hobby | Bonding-newcomer | **High** — Pobuda, *Analog Game Studies* (2018) | Specific games (dominoes, spades) differ |
+| Board game night | White/male hobby | Bonding-newcomer | **Medium** — Pobuda, "Assessing Gender and Racial Representation in Top-Rated BoardGameGeek Games," *Analog Game Studies* (2018) covers designers, illustrators and cover art, not who attends game nights | Specific games (dominoes, spades) differ |
 | Run club | ~60% white, young, affluent | Bonding-newcomer | **High** — Running USA survey | — |
 
-Evidence grades are carried over from the source research. **Mind the confidence flags:** most rows are studied, but the **trivia race-skew is practitioner lore, not studied** — treat it as a hypothesis to test locally, not a finding.
+Evidence grades are carried over from the source research. **Mind the confidence flags:** most rows are studied, but the **trivia race-skew is practitioner lore, not studied** — treat it as a hypothesis to test locally, not a finding. The **board-game** row is graded Medium because its source measures the industry, not the players.
 
 ## General rule
 
@@ -53,15 +53,15 @@ This pattern **extends beyond the single Dolley & Bosman volume** that the rest 
 
 - Dominoes: Bialostok, *Playing to the End* (Univ. of Nebraska Press, 2026) — ethnography of Black elders' domino rooms as anti-displacement placemaking; Smithsonian.
 - Spoken-word / slam: Nuyorican Poets Café lineage; Somers-Willett, *The Cultural Politics of Slam Poetry* (Univ. of Michigan Press, 2009); DC Busboys-vs-SpitDat dissertation.
-- Jazz audiences: NEA Research Report #31; Jazz Audiences Initiative (WolfBrown).
+- Jazz audiences: NEA Research Report #31, DeVeaux, *Jazz in America: Who's Listening?* (1995; 1992 survey data — check the latest NEA Survey of Public Participation in the Arts for current audience shares); Jazz Audiences Initiative (WolfBrown).
 - Chess: Washington Square Park street-chess ethnography; USCF membership data.
 - Family storytime: ALA / library-science literature on representative and bilingual programming.
 - Craft / knitting: Craft Yarn Council surveys.
 - Book clubs: Pew and NEA reading surveys; Elizabeth Long, *Book Clubs* (Univ. of Chicago Press).
-- Board games: Pobuda, *Analog Game Studies* (2018) — board-gaming demographics and representation.
+- Board games: Pobuda, "Assessing Gender and Racial Representation in Top-Rated BoardGameGeek Games," *Analog Game Studies* (2018) — industry representation (designers, illustrators, cover art), not participant demographics.
 - Run clubs: Running USA national survey.
 - Appropriation vs. authentic hosting: Grier & Perry, "faux diversity," *Journal of Public Policy & Marketing* (2018); Cxffeeblack; Busboys & Poets.
-- Price/payment exclusion: NAACP on cashless retail; FDIC unbanked data (~14% of Black adults vs. ~4% white).
+- Price/payment exclusion: NAACP on cashless retail; FDIC 2023 National Survey of Unbanked and Underbanked Households (10.6% of Black vs. 1.9% of White households unbanked, 4.2% nationally; check fdic.gov/household-survey for newer editions).
 - [patterns/oldenburg-eight-test.md](oldenburg-eight-test.md) — run the 8-test *for the target demographic*.
 - [PRINCIPLES.md](../PRINCIPLES.md) — Principle 3 (weak ties are infrastructure) and Principle 4 (no place is neutral).
 - [anti-patterns.md](../anti-patterns.md) — #DontMuteDC, performing-vs-hosting, leveller-while-pricing-excludes.
